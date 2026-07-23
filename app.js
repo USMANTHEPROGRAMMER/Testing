@@ -24,6 +24,7 @@
 // git checkout [branch_name] (Ek branch se doosri branch par switch karne ke liye)
 // git pull origin main (GitHub se updates local machine par lane ke liye)
 // git merge [branch_name] (Branches ko merge karne ke liye)
+// git diff [branch-name] (Branches ke beech main kia Difference hai)
 
 // Undoing Changes:
 // git reset HEAD~1 (Last commit ko undo karne ke liye)
